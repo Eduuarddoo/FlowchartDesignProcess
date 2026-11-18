@@ -1,0 +1,10 @@
+{
+  "description": "Creates detailed mobile app design systems and interactive prototypes with real data, enhancing user experience and accessibility for iOS and Android.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
